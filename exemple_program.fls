@@ -1,0 +1,7 @@
+Text.Write("FLS - Program Test")
+Text.Write("https://github.com/saysaa/FLSlash")
+Time.Pause("1000")
+Program.Execute("explorer.exe")
+Text.Write("Close explorer.exe...")
+Time.Pause("2000")
+Program.Exit("explorer.exe")
