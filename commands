@@ -8,3 +8,48 @@ ide.help // Redirect to here
 _____________________________
 
 **- FLS Program Commands** 
+_____________________________
+Text.Write("Hello World!")
+
+Displays the text written in the console
+Program.Exit("exemple.exe")
+
+Close a program.
+Program.Execute("exemple.exe")
+
+Execute a program.
+Time.Pause("1000")
+
+Wait
+System.Power=Shutdown
+
+Shutdown Operating System.
+System.Power=Reboot
+
+Reboot Operating System.
+Folder.Create("C:\Users\username\Desktop\folder")
+
+Create a folder
+Folder.Delete("C:\Users\username\Desktop\folder")
+
+Delete a folder
+File.Create("C:\Users\username\Desktop\text.txt")
+
+Create a file
+File.Delete("C:\Users\username\Desktop\text.txt")
+
+Shutdown PC
+System.Power=Shutdown
+
+Restart PC
+System.Power=Reboot
+
+Set Text Color
+Color.Set=Red
+Color.Set=Green
+Color.Set=Blue
+Color.Set=White
+Color.Set=Yellow
+Color.Set=Black
+Color.Set=Gray
+Color.Set=DarkRed
