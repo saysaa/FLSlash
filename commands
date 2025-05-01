@@ -1,1 +1,10 @@
+**- IDE Commands**
+_____________________________
+ide.open // Open a file
+ide.exit // Exit environment
+ide.clear // Clear Console
+ide.help // Redirect to here
 
+_____________________________
+
+**- FLS Program Commands** 
