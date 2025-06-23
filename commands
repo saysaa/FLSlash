@@ -10,43 +10,35 @@ _____________________________
 
 **- FLS Program Commands** 
 _____________________________
-Text.Write("Hello World!")
 Displays the text written in the console
+Text.Write("Hello World!")
 
-
-Program.Exit("exemple.exe")
 Close a program.
+Program.Exit("exemple.exe")
 
-
-Program.Execute("exemple.exe")
 Execute a program.
+Program.Execute("exemple.exe")
 
-
-Time.Pause("1000")
 Wait
+Time.Pause("1000")
 
-
-System.Power=Shutdown
 Shutdown Operating System.
+System.Power=Shutdown
 
-
-System.Power=Reboot
 Reboot Operating System.
+System.Power=Reboot
 
-Folder.Create("C:\Users\username\Desktop\folder")
 Create a folder
+Folder.Create("C:\Users\username\Desktop\folder")
 
-
-Folder.Delete("C:\Users\username\Desktop\folder")
 Delete a folder
+Folder.Delete("C:\Users\username\Desktop\folder")
 
-
-File.Create("C:\Users\username\Desktop\text.txt")
 Create a file
+File.Create("C:\Users\username\Desktop\text.txt")
 
-
-File.Delete("C:\Users\username\Desktop\text.txt")
 Delete a file
+File.Delete("C:\Users\username\Desktop\text.txt")
 
 Shutdown PC
 System.Power=Shutdown
