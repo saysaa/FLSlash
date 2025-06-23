@@ -1,6 +1,6 @@
 **- IDE Commands**
 _____________________________
-ide.open // Open a file
+ide.open // Open a file   slash.open for old version ( B-003, B-002, B-001 )
 ide.exit // Exit environment
 ide.clear // Clear Console
 ide.help // Redirect to here
